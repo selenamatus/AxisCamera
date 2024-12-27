@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AXIS_CAMERA", "AXIS_CAMERA\AXIS_CAMERA.csproj", "{B52F27D2-FF60-4C63-9D17-F7FE359FD5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52F27D2-FF60-4C63-9D17-F7FE359FD5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52F27D2-FF60-4C63-9D17-F7FE359FD5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52F27D2-FF60-4C63-9D17-F7FE359FD5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52F27D2-FF60-4C63-9D17-F7FE359FD5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B96ACA6D-B452-4ACB-AD67-067715A345C7}
+	EndGlobalSection
+EndGlobal

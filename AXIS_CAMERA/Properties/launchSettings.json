@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AXIS_CAMERA": {
+      "commandName": "Project",
+      "commandLineArgs": "[iomex;axis]{g1l1lpr1:1-1}"
+    }
+  }
+}
